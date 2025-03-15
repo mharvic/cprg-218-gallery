@@ -1,0 +1,1 @@
+The HTML file and images on this assignment are provided by our instructor Dan Stephenson.
