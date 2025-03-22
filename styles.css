@@ -29,11 +29,15 @@ nav ul li{
     list-style-type:none;
     text-decoration-style: none;
     text-align:center;
-    padding: 1rem;
     margin: 1rem;
     background-color: #d9043d;
     border-color: #97bf04;
     border: solid 2px;
+}
+
+nav ul li a{
+    display:block;
+    padding: 1rem;
 }
 
 nav a {
